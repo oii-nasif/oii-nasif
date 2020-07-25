@@ -36,11 +36,19 @@
 </table>
 
 
-<div align="center">
-    
-   <image align="center" src="https://github-readme-stats.vercel.app/api?username=oii-nasif&show_icons=true"> 
-       
-</div>   
+<a href="https://github.com/oii-nasif/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.oii-nasif.vercel.app/api/top-langs/?username=oii-nasif&theme=radical&hide=glsl,python" />
+</a>
+<a href="https://github.com/oii-nasif/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.oii-nasif.vercel.app/api?username=oii-nasif&show_icons=true&theme=radical&line_height=27" alt="Nasif's github stats" />
+</a>
+
+<a href="https://github.com/oii-nasif/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.oii-nasif.vercel.app/api/pin/?username=oii-nasif&repo=github-readme-stats&theme=radical" />
+</a>    
+<a href="https://github.com/oii-nasif/nasif.tech">
+  <img align="center" src="https://github-readme-stats.oii-nasif.vercel.app/api/pin/?username=oii-nasif&repo=oii-nasif.github.io&theme=radical" />
+</a>  
 
 <p align="center"> 
   Visitor count<br>

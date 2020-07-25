@@ -17,7 +17,11 @@
         </td>
         <td align="center">
             <a href="https://github.com/oii-nasif/github-readme-stats">
+                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
                 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oii-nasif&hide=glsl,python" />
+                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
             </a>
         </td>
     </tr>

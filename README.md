@@ -1,4 +1,4 @@
-<img height="100" alt="Hello, I'm Nasif. " src="https://raw.githubusercontent.com/oii-nasif/oii-nasif/master/images/header.png"> 
+<img height="100" alt="Hello, I'm Nasif. " src="https://raw.githubusercontent.com/oii-nasif/oii-nasif/master/images/header.jpg"> 
 
 <table width="100%">
     <tr>
@@ -20,14 +20,11 @@
 
 
 <a href="https://github.com/oii-nasif/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oii-nasif&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oii-nasif&hide=glsl,python" />
 </a>
 <a href="https://github.com/oii-nasif/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oii-nasif&show_icons=true&theme=radical&line_height=27" alt="Nasif's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oii-nasif&show_icons=true&line_height=27" alt="Nasif's github stats" />
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oii-nasif)](https://github.com/oii-nasif/github-readme-stats)
-
 
 <p align="center"> 
   Visitor count<br>

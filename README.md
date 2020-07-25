@@ -4,7 +4,7 @@
         <td align="center">
             <!-- Social -->
             <a href="https://nasif.tech">
-                <strong>Visit my personal website </strong>
+                <strong>Wanna visit my personal website? </strong>
                 <br />
                 <!-- Centering something has never been easy, has it? -->
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>

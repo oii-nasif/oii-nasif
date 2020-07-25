@@ -12,7 +12,7 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<img align="center" alt="Globe" height="100" src="https://github.com/oii-nasif/oii-nasif/blob/master/images/globe1.png?raw=true">
+<img align="center" alt="Globe" height="100" src="https://github.com/oii-nasif/oii-nasif/blob/master/images/globe2.png?raw=true">
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>

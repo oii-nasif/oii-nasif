@@ -15,13 +15,16 @@
                 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>                 
             </a>   
         </td>
+        <td align="center">
+            <a href="https://github.com/oii-nasif/github-readme-stats">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oii-nasif&hide=glsl,python" />
+            </a>
+        </td>
     </tr>
 </table>
 
 
-<a href="https://github.com/oii-nasif/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oii-nasif&hide=glsl,python" />
-</a>
+
 <a href="https://github.com/oii-nasif/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oii-nasif&show_icons=true&line_height=27" alt="Nasif's github stats" />
 </a>

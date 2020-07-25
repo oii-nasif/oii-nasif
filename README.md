@@ -7,6 +7,8 @@
                 <strong>Visit my personal website </strong>
                 <br />
                 <!-- Centering something has never been easy, has it? -->
+                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
                 <img alt="Globe" height="100" src="https://github.com/oii-nasif/oii-nasif/blob/master/images/globe2.png?raw=true">
             </a>
         </td>

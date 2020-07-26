@@ -22,7 +22,7 @@
 
 <table>
   <tbody>
-    <tr valign="top">
+    <tr align="top">
       <td width="27%" align="center">
         <span>𝗖</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">

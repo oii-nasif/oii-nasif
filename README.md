@@ -27,14 +27,7 @@
 
 
 <!-- Top Language -->
-<table>
-    <tr>
-        ![Github stats](https://github-readme-stats.vercel.app/api?username=oii-nasif&show_icons=true&hide_border=true)
-    </tr>
-    <tr>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oii-nasif)](https://github.com/oii-nasif/github-readme-stats)
-    </tr>
-</table>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oii-nasif)](https://github.com/oii-nasif/github-readme-stats)
 
 
 <!-- Contact Me -->

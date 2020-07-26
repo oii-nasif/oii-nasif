@@ -25,6 +25,7 @@
 
 
 <!-- Contact Me -->
+<div align='center'>
   <a href="https://bd.linkedin.com/in/oii-nasif">
     <img src="https://img.icons8.com/color/24/000000/linkedin.png"/>
   </a>
@@ -34,6 +35,7 @@
   <a href="mailto:nasif.ishtiaque.islam@gmail.com">
     <img src="https://img.icons8.com/color/24/000000/gmail.png"/>
   </a>
+</div>
 
 
 <!-- Visitor Count -->

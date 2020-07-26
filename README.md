@@ -1,7 +1,14 @@
 <img alt="Hello, I'm Nasif. " src="https://raw.githubusercontent.com/oii-nasif/oii-nasif/master/images/header.jpg"> 
 
 
-### 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+
+<div><h5>The projects I am currently working on: </h5></div>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Git-and-Github-for-Developers)](https://github.com/oii-nasif/Git-and-Github-for-Developers)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Pattern-Recognition)](https://github.com/oii-nasif/Pattern-Recognition)
+<br />
+
+###      𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 <table>
   <tbody>
     <tr align="top">

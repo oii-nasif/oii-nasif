@@ -1,6 +1,6 @@
 <!-- Header -->
 <img alt="Hello, I'm Nasif. " src="https://raw.githubusercontent.com/oii-nasif/oii-nasif/master/images/header.jpg"> 
-<img src="https://github.com/oii-nasif/oii-nasif/blob/master/gifs/Hi.gif" width="100%">
+<img src="https://github.com/oii-nasif/oii-nasif/blob/master/gifs/Hi.gif">
 
 <!-- Current Projects -->
 **The projects I am currently working on:**

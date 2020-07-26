@@ -27,7 +27,8 @@
 
 
 <!-- Top Language -->
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=oii-nasif'/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oii-nasif)](https://github.com/oii-nasif/github-readme-stats)
+
 
 
 <!-- Contact Me -->

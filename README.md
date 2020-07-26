@@ -29,6 +29,11 @@
     </tr>
 </table>
 
+<!-- Current Projects
+<div><p>The projects I am currently working on: </p></div>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=reponame)](repo link)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=reponame)](repo link)
+<br />
 
 
 <a href="https://github.com/oii-nasif/github-readme-stats">

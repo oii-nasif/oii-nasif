@@ -34,12 +34,12 @@
 <a href="https://github.com/oii-nasif/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oii-nasif&show_icons=true&line_height=27" alt="Nasif's github stats" />
 </a>
-
+<!-- Visitors deactivated 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/oii-nasif/count.svg" />
 </p>
-
+-->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=oii-nasif.oii-nasif)
 

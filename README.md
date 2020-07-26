@@ -22,6 +22,20 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=oii-nasif.oii-nasif)
 
+<!-- Contact Me -->
+  <a href="https://bd.linkedin.com/in/oii-nasif">
+    <img align="left" alt="Nasif| Linkedin" width="24px" src="https://github.com/oii-nasif/oii-nasif/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/TheDudeThatCode">
+    <img align="left" alt="Nasif | Twitter" width="26px" src="https://github.com/oii-nasif/oii-nasif/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="mailto:nasif.ishtiaque.islam@gmail.com">
+    <img align="left" alt="Nasif | Gmail" width="26px" src="https://github.com/oii-nasif/oii-nasif/blob/master/Assets/Gmail.svg" />
+  </a>
+
+
+
+
 
 <!-- Footer -->
 <div align="center">

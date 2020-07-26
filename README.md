@@ -40,6 +40,10 @@
   <img src="https://profile-counter.glitch.me/oii-nasif/count.svg" />
 </p>
 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=oii-nasif.oii-nasif)
+
+
 <!-- Footer -->
 <div align="center">
     <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/oii-nasif/oii-nasif/master/images/marquee.svg" />

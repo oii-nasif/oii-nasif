@@ -1,13 +1,16 @@
+<!-- Header Image -->
 <img alt="Hello, I'm Nasif. " src="https://raw.githubusercontent.com/oii-nasif/oii-nasif/master/images/header.jpg"> 
 
 
-
+<!-- Current Projects -->
 **The projects I am currently working on:**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Git-and-Github-for-Developers)](https://github.com/oii-nasif/Git-and-Github-for-Developers)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Pattern-Recognition)](https://github.com/oii-nasif/Pattern-Recognition)
 <br />
 
+
+<!-- Language and Tools -->
 **Languages and Tools:**  
 
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -20,25 +23,18 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=oii-nasif&show_icons=true&hide_border=true)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=oii-nasif.oii-nasif)
 
 <!-- Contact Me -->
   <a href="https://bd.linkedin.com/in/oii-nasif">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+    <img src="https://img.icons8.com/color/24/000000/linkedin.png"/>
   </a>
   <a href="https://twitter.com/oii_nasif">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+    <img src="https://img.icons8.com/fluent/24/000000/twitter.png"/>
   </a>
   <a href="mailto:nasif.ishtiaque.islam@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
+    <img src="https://img.icons8.com/color/24/000000/gmail.png"/>
   </a>
 
 
-
-
-
-<!-- Footer -->
-<div align="center">
-    <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/oii-nasif/oii-nasif/master/images/marquee.svg" />
-    <br />
-</div>
+<!-- Visitor Count -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=oii-nasif.oii-nasif)

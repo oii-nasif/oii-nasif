@@ -1,6 +1,6 @@
-<!-- Header Image -->
+<!-- Header -->
 <img alt="Hello, I'm Nasif. " src="https://raw.githubusercontent.com/oii-nasif/oii-nasif/master/images/header.jpg"> 
-
+<img src="https://github.com/oii-nasif/oii-nasif/blob/master/gifs/Hi.gif" width="100%">
 
 <!-- Current Projects -->
 **The projects I am currently working on:**
@@ -21,6 +21,9 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+
+
+<!-- Github Stats -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=oii-nasif&show_icons=true&hide_border=true)
 
 
@@ -38,6 +41,7 @@
 </div>
 
 
-<!-- Visitor Count -->
+<!-- Visitor Count 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=oii-nasif.oii-nasif)
 [![HitCount](http://hits.dwyl.com/oii-nasif/oii-nasif.svg)](http://hits.dwyl.com/oii-nasif/oii-nasif)
+ -->

@@ -1,13 +1,6 @@
 <img alt="Hello, I'm Nasif. " src="https://raw.githubusercontent.com/oii-nasif/oii-nasif/master/images/header.jpg"> 
 
 
-
-<div><p>The projects I am currently working on: </p></div>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Git-and-Github-for-Developers)](https://github.com/oii-nasif/Git-and-Github-for-Developers)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Pattern-Recognition)](https://github.com/oii-nasif/Pattern-Recognition)
-<br />
-
-
 <a href="https://github.com/oii-nasif/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oii-nasif&show_icons=true&line_height=27" alt="Nasif's github stats" />
 </a>

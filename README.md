@@ -20,10 +20,9 @@
 
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
-
 <table>
   <tbody>
-    <tr valign="top">
+    <tr align="top">
       <td width="25%" align="center">
         <span>𝗖</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
@@ -40,8 +39,6 @@
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
@@ -58,7 +55,7 @@
   </tbody>
 </table>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=munific&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=oii-nasif&show_icons=true&hide_border=true)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=oii-nasif.oii-nasif)
 

@@ -1,33 +1,5 @@
 <img alt="Hello, I'm Nasif. " src="https://raw.githubusercontent.com/oii-nasif/oii-nasif/master/images/header.jpg"> 
 
-<table width="100%">
-    <tr>
-        <td align="center">
-            <a href="https://github.com/oii-nasif/oii-nasif/issues/new?template=Guestbook_entry.md">
-                <strong>Hey! Write something on my guestbook.</strong>
-                <br />
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>                
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <img height="100" alt="Book" src="https://raw.githubusercontent.com/oii-nasif/oii-nasif/master/images/guest_book.png"> 
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>               
-            </a>   
-        </td>
-        <td align="center">
-            <a href="https://github.com/oii-nasif/github-readme-stats">
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
-                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oii-nasif" />
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-            </a>
-        </td>
-    </tr>
-</table>
 
 <!-- Current Projects
 <div><p>The projects I am currently working on: </p></div>
@@ -45,6 +17,31 @@
   <img src="https://profile-counter.glitch.me/oii-nasif/count.svg" />
 </p>
 -->
+
+## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗖</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+        <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=oii-nasif.oii-nasif)
 

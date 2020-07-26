@@ -1,12 +1,6 @@
 <img alt="Hello, I'm Nasif. " src="https://raw.githubusercontent.com/oii-nasif/oii-nasif/master/images/header.jpg"> 
 
 
-<a href="https://github.com/oii-nasif/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oii-nasif&show_icons=true&line_height=27" alt="Nasif's github stats" />
-</a>
-
-
-
 ### 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 <table>
   <tbody>

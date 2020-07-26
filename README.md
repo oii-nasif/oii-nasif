@@ -22,21 +22,21 @@
 
 <table>
   <tbody>
-    <tr align="top">
-      <td width="27%" align="center">
+    <tr valign="top">
+      <td width="25%" align="center">
         <span>𝗖</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
       </td>
-      <td width="27%" align="center">
+      <td width="25%" align="center">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-        <td width="27%" align="center">
+        <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-      <td width="27%" align="center">
-        <span>𝗩S 𝗖𝗼𝗱𝗲</span><br><br><br>
+      <td width="25%" align="center">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>

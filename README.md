@@ -1,5 +1,5 @@
 <!-- Header -->
-<img alt="Hello, I'm Nasif. " src="https://raw.githubusercontent.com/oii-nasif/oii-nasif/master/images/header.jpg">
+<img alt="Hello, I'm Nasif. " src="https://raw.githubusercontent.com/oii-nasif/oii-nasif/master/images/header.gif">
 
 <!-- Current Projects -->
 **The projects I am currently working on:**

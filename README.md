@@ -4,7 +4,7 @@
 <!-- Current Projects -->
 **The projects I am currently working on:**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Git-and-Github-for-Developers)](https://github.com/oii-nasif/Git-and-Github-for-Developers)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Machine-Learning)](https://github.com/oii-nasif/Machine-Learning)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Pattern-Recognition)](https://github.com/oii-nasif/Pattern-Recognition)
 <br />
 

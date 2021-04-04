@@ -34,7 +34,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oii-nasif)](https://github.com/oii-nasif/github-readme-stats) -->
 
 
-**<div align='center'>For any query please contact me**
+**<div align='center'>For any query feel free contact me**
 <div align='center'>
   <a href="https://bd.linkedin.com/in/oii-nasif">
     <img src="https://img.icons8.com/color/24/000000/linkedin.png"/>

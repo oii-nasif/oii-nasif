@@ -4,9 +4,12 @@
 <!-- Current Projects -->
 **The projects I am currently working on:**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Machine-Learning)](https://github.com/oii-nasif/Machine-Learning)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Pattern-Recognition)](https://github.com/oii-nasif/Pattern-Recognition)
-<br />
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Web-Scraping)](https://github.com/oii-nasif/Web-Scraping)
+
+**Featured projects:**
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Genetic-Recombination)](https://github.com/oii-nasif/Genetic-Recombination)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Predicting-Anti-Cancer-Peptides)](https://github.com/oii-nasif/Predicting-Anti-Cancer-Peptides)
 
 
 <!-- Language and Tools -->
@@ -31,13 +34,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oii-nasif)](https://github.com/oii-nasif/github-readme-stats) -->
 
 
-<!-- Contact Me -->
+**<div align='center'>For any query please contact me**
 <div align='center'>
   <a href="https://bd.linkedin.com/in/oii-nasif">
     <img src="https://img.icons8.com/color/24/000000/linkedin.png"/>
   </a>
-  <a href="https://twitter.com/oii_nasif">
-    <img src="https://img.icons8.com/fluent/24/000000/twitter.png"/>
+  <a href="https://github.com/oii-nasif">
+    <img src="https://img.icons8.com/fluent/24/000000/github.png"/>
   </a>
   <a href="mailto:nasif.ishtiaque.islam@gmail.com">
     <img src="https://img.icons8.com/color/24/000000/gmail.png"/>
@@ -45,8 +48,10 @@
 </div>
 
 
-<!-- Visitor Count 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=oii-nasif.oii-nasif)
-[![HitCount](http://hits.dwyl.com/oii-nasif/oii-nasif.svg)](http://hits.dwyl.com/oii-nasif/oii-nasif)
- -->
+[comment]: <> (Visitor Count )
+
+[comment]: <> (![visitors]&#40;https://visitor-badge.laobi.icu/badge?page_id=oii-nasif.oii-nasif&#41;)
+
+[comment]: <> ([![HitCount]&#40;http://hits.dwyl.com/oii-nasif/oii-nasif.svg&#41;]&#40;http://hits.dwyl.com/oii-nasif/oii-nasif&#41;)
+ 
 

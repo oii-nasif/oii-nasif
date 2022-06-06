@@ -8,8 +8,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Problem-Solving)](https://github.com/oii-nasif/Problem-Solving)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Watchmate-REST-APIs-with-Django-Rest-Framework)](https://github.com/oii-nasif/Watchmate-REST-APIs-with-Django-Rest-Framework)
-
 **Featured projects:**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Genetic-Recombination)](https://github.com/oii-nasif/Genetic-Recombination)

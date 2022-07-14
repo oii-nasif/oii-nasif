@@ -18,16 +18,19 @@
 
 <!-- Language and Tools -->
 **Languages and Tools:**  
+
+<code><img height="45" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"></code>
+<code><img height="45" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="45" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>
 <code><img height="45" src="https://cdn4.iconfinder.com/data/icons/logos-3/640/odoo_logo_rgb-512.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="45" src="https://img.icons8.com/color/48/000000/angularjs.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="45" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1280px-LaTeX_logo.svg.png"></code>
+<code><img height="45" src="https://img.icons8.com/fluency/48/000000/texshop.png"></code>
 
 
 

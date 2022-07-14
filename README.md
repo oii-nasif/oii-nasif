@@ -4,9 +4,11 @@
 <!-- Current Projects -->
 **The projects I am currently working on:**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Using-Python-to-Interact-with-the-OS)](https://github.com/oii-nasif/Using-Python-to-Interact-with-the-OS)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=University-Management-System)](https://github.com/oii-nasif/University-Management-System)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Using-Python-to-Interact-with-the-OS)](https://github.com/oii-nasif/Using-Python-to-Interact-with-the-OS)
+
 
 **Featured projects:**
 

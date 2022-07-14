@@ -28,7 +28,7 @@
 <code><img height="45" src="https://img.icons8.com/color/48/000000/angularjs.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="45" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="45" src="https://img.icons8.com/color/48/000000/git.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="45" src="https://img.icons8.com/fluency/48/000000/texshop.png"></code>
 

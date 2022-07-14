@@ -6,7 +6,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Using-Python-to-Interact-with-the-OS)](https://github.com/oii-nasif/Using-Python-to-Interact-with-the-OS)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Problem-Solving)](https://github.com/oii-nasif/Problem-Solving)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=University-Management-System)](https://github.com/oii-nasif/University-Management-System)
 
 **Featured projects:**
 

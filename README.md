@@ -46,7 +46,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oii-nasif&" alt="oii-nasif" /></p>
 
  <!-- ACTIVITY GRAPH TRACKER -->
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=oii-nasif&theme=dark-mode)](https://github.com/oii-nasif/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=oii-nasif&theme=react-dark)](https://github.com/oii-nasif/github-readme-activity-graph)
 
 
 **<div align='center'>For any query feel free contact me**

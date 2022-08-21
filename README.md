@@ -35,15 +35,15 @@
 
 #### Github Stats
 <p float="left">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=oii-nasif&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oii-nasif&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oii-nasif&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oii-nasif&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 <img align="center" width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=oii-nasif&"/>
 </p>
 
 
 #### Competitive Programming
 <p float="left">
-<img height="273em" width=45% src="https://leetcard.jacoblin.cool/oii-nasif?theme=light&font=Karma&ext=contest" />
+<img height="240em" width=45% src="https://leetcard.jacoblin.cool/oii-nasif?theme=light&font=Karma&ext=contest" />
 <!-- <img height="280em" src="https://raw.githubusercontent.com/oii-nasif/cf-stats/main/output/light_card.svg" /> -->
 </p>
 

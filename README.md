@@ -41,11 +41,11 @@
 </p>
 
 
-#### Competitive Programming
+<-- #### Competitive Programming
 <p float="left">
 <img height="240em" width=45% src="https://leetcard.jacoblin.cool/oii-nasif?theme=light&font=Karma&ext=contest" />
 <!-- <img height="280em" src="https://raw.githubusercontent.com/oii-nasif/cf-stats/main/output/light_card.svg" /> -->
-</p>
+</p> -->
 
 <!-- Github Stats 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=oii-nasif&show_icons=true&hide_border=true) -->

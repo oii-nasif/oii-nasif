@@ -33,20 +33,28 @@
 <code><img height="45" src="https://img.icons8.com/fluency/48/000000/texshop.png"></code>
 
 
+**Github Stats**
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oii-nasif&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oii-nasif&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oii-nasif&"/>
+</p>
 
-<!-- Github Stats -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=oii-nasif&show_icons=true&hide_border=true)
+**Competitive Programming**
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/oii-nasif?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/oii-nasif/cf-stats/main/output/light_card.svg" />
+</p>
 
+<!-- Github Stats 
+![Github stats](https://github-readme-stats.vercel.app/api?username=oii-nasif&show_icons=true&hide_border=true) -->
 
 
 <!-- Top Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oii-nasif)](https://github.com/oii-nasif/github-readme-stats) -->
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oii-nasif&" alt="oii-nasif" /></p>
-
  <!-- ACTIVITY GRAPH TRACKER -->
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=oii-nasif&theme=react-dark)](https://github.com/oii-nasif/github-readme-activity-graph)
+[![Nasif's github activity graph](https://activity-graph.herokuapp.com/graph?username=oii-nasif&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/oii-nasif/github-readme-activity-graph)
 
 
 **<div align='center'>For any query feel free contact me**

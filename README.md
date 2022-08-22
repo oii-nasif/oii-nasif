@@ -55,7 +55,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oii-nasif)](https://github.com/oii-nasif/github-readme-stats) -->
 
  <!-- ACTIVITY GRAPH TRACKER -->
-[![Nasif's github activity graph](https://activity-graph.herokuapp.com/graph?username=oii-nasif&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/oii-nasif/github-readme-activity-graph)
+[![Nasif's github activity graph](https://activity-graph.herokuapp.com/graph?username=oii-nasif&bg_color=ffffff&color=777777&line=039be5&point=f57c00&area=true&hide_border=true)](https://github.com/oii-nasif/github-readme-activity-graph)
 
 
 **<div align='center'>For any query feel free contact me**

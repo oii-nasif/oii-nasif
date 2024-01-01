@@ -71,14 +71,3 @@
   </a>
 </div>
   
-
-
-
-
-[comment]: <> (Visitor Count )
-
-[comment]: <> (![visitors]&#40;https://visitor-badge.laobi.icu/badge?page_id=oii-nasif.oii-nasif&#41;)
-
-[comment]: <> ([![HitCount]&#40;http://hits.dwyl.com/oii-nasif/oii-nasif.svg&#41;]&#40;http://hits.dwyl.com/oii-nasif/oii-nasif&#41;)
- 
-

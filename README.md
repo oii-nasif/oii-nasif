@@ -2,17 +2,17 @@
 <img alt="Hello, I'm Nasif. " src="https://raw.githubusercontent.com/oii-nasif/oii-nasif/master/images/git_header.gif">
 
 <!-- Current Projects -->
-**The projects I am currently working on:**
+<!-- **The projects I am currently working on:** -->
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=University-Management-System)](https://github.com/oii-nasif/University-Management-System)
 
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Genetic-Recombination)](https://github.com/oii-nasif/Genetic-Recombination) -->
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Using-Python-to-Interact-with-the-OS)](https://github.com/oii-nasif/Using-Python-to-Interact-with-the-OS) -->
 
 
 **Featured projects:**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Genetic-Recombination)](https://github.com/oii-nasif/Genetic-Recombination)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=University-Management-System)](https://github.com/oii-nasif/University-Management-System)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Predicting-Anti-Cancer-Peptides)](https://github.com/oii-nasif/Predicting-Anti-Cancer-Peptides)
 
 

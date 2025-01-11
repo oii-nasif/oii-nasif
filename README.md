@@ -33,8 +33,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oii-nasif&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oii-nasif&layout=compact&langs_count=8&hide_border=true" alt="Top Languages">
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oii-nasif&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oii-nasif&layout=compact&langs_count=8&hide_border=true" alt="Top Languages">-->
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=oii-nasif" alt="GitHub Streak" /></a>
 </p>
 

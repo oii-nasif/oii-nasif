@@ -5,8 +5,8 @@
 
 ### 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/oii-nasif/University-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=University-Management-System" alt="University Management System">
+  <a href="https://github.com/oii-nasif/Caching-in-Clean-Architecture-DotNet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Caching-in-Clean-Architecture-DotNet" alt="Caching in Clean Architecture .Net">
   </a>
   <a href="https://github.com/oii-nasif/Predicting-Anti-Cancer-Peptides">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=oii-nasif&repo=Predicting-Anti-Cancer-Peptides" alt="Predicting Anti-Cancer Peptides">

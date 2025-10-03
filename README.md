@@ -1,7 +1,7 @@
-<!-- Header -->
+<!-- Header
 <div align="center">
   <img alt="Hello, I'm Nasif" src="https://raw.githubusercontent.com/oii-nasif/oii-nasif/master/images/git_header.gif">
-</div>
+</div>  -->
 
 [![An image of @oiinasif's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/oiinasif)](https://holopin.io/@oiinasif)
 

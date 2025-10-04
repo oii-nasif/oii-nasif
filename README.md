@@ -24,24 +24,18 @@
   ### 🛠️ Languages and Tools
 
   <p align="center">
-    <img height="45" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#">
-    <img height="45" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server">
-    <img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/
-  topics/javascript/javascript.png" alt="JavaScript">
-    <img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/
-  topics/python/python.png" alt="Python">
-    <img height="45" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL">
-    <img height="45" src="https://cdn4.iconfinder.com/data/icons/logos-3/640/odoo_logo_rgb-512.png" alt="Odoo">
-    <img height="45" src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular">
-    <img height="45"
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"
-   alt="C++">
-    <img height="45" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-sql-c
-  omputer-programming-flaticons-lineal-color-flat-icons.png" alt="SQL">
-    <img height="45" src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
-    <img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/
-  topics/terminal/terminal.png" alt="Terminal">
-    <img height="45" src="https://img.icons8.com/fluency/48/000000/texshop.png" alt="LaTeX">
+    <img height="45" width="45" src="https://skillicons.dev/icons?i=cs" alt="C#">
+    <img height="45" width="45" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL
+  Server">
+    <img height="45" width="45" src="https://skillicons.dev/icons?i=js" alt="JavaScript">
+    <img height="45" width="45" src="https://skillicons.dev/icons?i=py" alt="Python">
+    <img height="45" width="45" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL">
+    <img height="45" width="45" src="https://skillicons.dev/icons?i=angular" alt="Angular">
+    <img height="45" width="45" src="https://skillicons.dev/icons?i=cpp" alt="C++">
+    <img height="45" width="45" src="https://skillicons.dev/icons?i=mysql" alt="SQL">
+    <img height="45" width="45" src="https://skillicons.dev/icons?i=git" alt="Git">
+    <img height="45" width="45" src="https://skillicons.dev/icons?i=bash" alt="Terminal">
+    <img height="45" width="45" src="https://skillicons.dev/icons?i=latex" alt="LaTeX">
   </p>
 
   ### 📊 GitHub Stats

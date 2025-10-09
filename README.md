@@ -24,7 +24,7 @@
   ### 🛠️ Languages and Tools
 
   <p align="center">
-    <img height="45" width="45" src="https://skillicons.dev/icons?i=cs" alt="C#">.
+    <img height="45" width="45" src="https://skillicons.dev/icons?i=cs" alt="C#">.'
     <img height="45" width="45" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL
   Server">.
     <img height="45" width="45" src="https://skillicons.dev/icons?i=js" alt="JavaScript">.

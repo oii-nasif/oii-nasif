@@ -24,18 +24,18 @@
   ### 🛠️ Languages and Tools
 
   <p align="center">
-    <img height="45" width="45" src="https://skillicons.dev/icons?i=cs" alt="C#">.'
+    <img height="45" width="45" src="https://skillicons.dev/icons?i=cs" alt="C#">
     <img height="45" width="45" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL
-  Server">.
-    <img height="45" width="45" src="https://skillicons.dev/icons?i=js" alt="JavaScript">.
-    <img height="45" width="45" src="https://skillicons.dev/icons?i=py" alt="Python">.
-    <img height="45" width="45" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL">.
-    <img height="45" width="45" src="https://skillicons.dev/icons?i=angular" alt="Angular">.
-    <img height="45" width="45" src="https://skillicons.dev/icons?i=cpp" alt="C++">.
-    <img height="45" width="45" src="https://skillicons.dev/icons?i=mysql" alt="SQL">.
-    <img height="45" width="45" src="https://skillicons.dev/icons?i=git" alt="Git">.
-    <img height="45" width="45" src="https://skillicons.dev/icons?i=bash" alt="Terminal">.
-    <img height="45" width="45" src="https://skillicons.dev/icons?i=latex" alt="LaTeX">.
+  Server">
+    <img height="45" width="45" src="https://skillicons.dev/icons?i=js" alt="JavaScript">
+    <img height="45" width="45" src="https://skillicons.dev/icons?i=py" alt="Python">
+    <img height="45" width="45" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL">
+    <img height="45" width="45" src="https://skillicons.dev/icons?i=angular" alt="Angular">
+    <img height="45" width="45" src="https://skillicons.dev/icons?i=cpp" alt="C++">
+    <img height="45" width="45" src="https://skillicons.dev/icons?i=mysql" alt="SQL">
+    <img height="45" width="45" src="https://skillicons.dev/icons?i=git" alt="Git">
+    <img height="45" width="45" src="https://skillicons.dev/icons?i=bash" alt="Terminal">
+    <img height="45" width="45" src="https://skillicons.dev/icons?i=latex" alt="LaTeX">
   </p>
 
   ### 📊 GitHub Stats

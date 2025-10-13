@@ -48,9 +48,9 @@
   ### 🎯 GitHub Contribution Metrics
 
   <p align="center">
-    <img
+    <!-- <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oii-nasif&theme=default"
-  alt="Profile Details">
+  alt="Profile Details"> -->
   </p>
 
   <p align="center">
@@ -58,8 +58,8 @@
   alt="Stats">
     <!-- <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oii-nasif&theme=default"
-  alt="Productive Time">
-  </p> -->
+  alt="Productive Time">-->
+  </p> 
 
 
   ### 🌐 ICPC Participation

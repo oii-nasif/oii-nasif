@@ -56,10 +56,10 @@
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oii-nasif&theme=default"
   alt="Stats">
-    <img
+    <!-- <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oii-nasif&theme=default"
   alt="Productive Time">
-  </p>
+  </p> -->
 
 
   ### 🌐 ICPC Participation

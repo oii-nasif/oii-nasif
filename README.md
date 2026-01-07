@@ -32,7 +32,7 @@
     <img height="45" width="45" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL">
     <img height="45" width="45" src="https://skillicons.dev/icons?i=angular" alt="Angular">
     <img height="45" width="45" src="https://skillicons.dev/icons?i=cpp" alt="C++">
-    <img height="45" width="45" src="https://skillicons.dev/icons?i=mysql" alt="SQL">
+    <img height="46" width="45" src="https://skillicons.dev/icons?i=mysql" alt="SQL">
     <img height="45" width="45" src="https://skillicons.dev/icons?i=git" alt="Git">
     <img height="45" width="45" src="https://skillicons.dev/icons?i=bash" alt="Terminal">
     <img height="45" width="45" src="https://skillicons.dev/icons?i=latex" alt="LaTeX">

@@ -1,6 +1,6 @@
 ## Hi, I'm Nasif 👋
 
-**Senior Software Engineer I at [Brain Station 23](https://brainstation-23.com)** · .NET · Azure · Distributed Systems  
+**Senior Software Engineer at [Brain Station 23](https://brainstation-23.com)** · .NET · Azure · Distributed Systems  
 4+ years shipping enterprise .NET systems — multi-tenant risk analytics, regulatory reporting, and real-time pipelines for regulated industries.  
 I care about architecture, performance, and code that survives real-world abuse.
 

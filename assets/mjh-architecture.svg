@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 135" width="100%" height="100%">
+  <defs>
+    <linearGradient id="boxGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#F8FAFC" />
+    </linearGradient>
+  </defs>
+  <style>
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .font-mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; }
+    .step-badge { font-size: 10px; font-weight: 700; fill: #0284C7; letter-spacing: 0.5px; }
+    .box-title { font-size: 13px; font-weight: 700; fill: #0F172A; }
+    .box-line { font-size: 11px; font-weight: 500; fill: #475569; }
+    .box-chip { font-size: 10px; font-weight: 600; fill: #0369A1; }
+  </style>
+
+  <!-- Outer Container -->
+  <rect x="1" y="1" width="898" height="133" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5" />
+
+  <!-- Box 1: Identity & Multi-Tenancy -->
+  <g transform="translate(14, 14)">
+    <rect x="0" y="0" width="202" height="107" rx="9" fill="url(#boxGrad)" stroke="#CBD5E1" stroke-width="1.2" />
+    <rect x="0" y="0" width="202" height="4" rx="2" fill="#0284C7" />
+    <text x="14" y="22" class="font-mono step-badge">01 · ACCESS &amp; TENANCY</text>
+    <text x="14" y="42" class="font-sans box-title">Multi-Tenant Security</text>
+    <text x="14" y="61" class="font-sans box-line">• SAML 2.0 Enterprise SSO</text>
+    <text x="14" y="77" class="font-sans box-line">• JWT Bearer &amp; RBAC Policies</text>
+    <text x="14" y="93" class="font-sans box-line">• Granular Permission Auth</text>
+  </g>
+
+  <!-- Arrow 1 -->
+  <path d="M 221 67 L 233 67 M 229 63 L 234 67 L 229 71" stroke="#0284C7" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Box 2: API Gateway & Services -->
+  <g transform="translate(238, 14)">
+    <rect x="0" y="0" width="202" height="107" rx="9" fill="url(#boxGrad)" stroke="#CBD5E1" stroke-width="1.2" />
+    <rect x="0" y="0" width="202" height="4" rx="2" fill="#2563EB" />
+    <text x="14" y="22" class="font-mono step-badge">02 · RESTFUL API LAYER</text>
+    <text x="14" y="42" class="font-sans box-title">ASP.NET Core (.NET 8)</text>
+    <text x="14" y="61" class="font-sans box-line">• 40+ Controllers / 150+ APIs</text>
+    <text x="14" y="77" class="font-sans box-line">• 243 Domain Entities</text>
+    <text x="14" y="93" class="font-sans box-line">• Clean Architecture &amp; SOLID</text>
+  </g>
+
+  <!-- Arrow 2 -->
+  <path d="M 445 67 L 457 67 M 453 63 L 458 67 L 453 71" stroke="#2563EB" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Box 3: Risk & Regulatory Engines -->
+  <g transform="translate(462, 14)">
+    <rect x="0" y="0" width="202" height="107" rx="9" fill="url(#boxGrad)" stroke="#CBD5E1" stroke-width="1.2" />
+    <rect x="0" y="0" width="202" height="4" rx="2" fill="#0EA5E9" />
+    <text x="14" y="22" class="font-mono step-badge">03 · RISK &amp; COMPLIANCE</text>
+    <text x="14" y="42" class="font-sans box-title">Analytics &amp; Reporting</text>
+    <text x="14" y="61" class="font-sans box-line">• VaR &amp; Liquidity Stress Tests</text>
+    <text x="14" y="77" class="font-sans box-line">• PRIIPS · AIFM · SFDR</text>
+    <text x="14" y="93" class="font-sans box-line">• UCITS &amp; MiFID II Filings</text>
+  </g>
+
+  <!-- Arrow 3 -->
+  <path d="M 669 67 L 681 67 M 677 63 L 682 67 L 677 71" stroke="#0EA5E9" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Box 4: Real-Time & Persistence -->
+  <g transform="translate(686, 14)">
+    <rect x="0" y="0" width="200" height="107" rx="9" fill="url(#boxGrad)" stroke="#CBD5E1" stroke-width="1.2" />
+    <rect x="0" y="0" width="200" height="4" rx="2" fill="#0369A1" />
+    <text x="14" y="22" class="font-mono step-badge">04 · REAL-TIME &amp; DATA</text>
+    <text x="14" y="42" class="font-sans box-title">Pipelines &amp; Storage</text>
+    <text x="14" y="61" class="font-sans box-line">• SignalR Live WebSockets</text>
+    <text x="14" y="77" class="font-sans box-line">• Hangfire Jobs + Redis</text>
+    <text x="14" y="93" class="font-sans box-line">• Optimized SQL Server</text>
+  </g>
+</svg>

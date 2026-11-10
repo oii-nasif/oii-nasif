@@ -12,18 +12,10 @@
 
 <!-- LIGHT-MODE SOCIAL & NAVIGATION BAR -->
 <p align="center">
-  <a href="https://www.nasif.tech">
-    <img src="https://img.shields.io/badge/Portfolio-nasif.tech-0284C7?style=flat-square&logo=googlechrome&logoColor=0284C7&labelColor=F1F5F9" alt="Portfolio" />
-  </a>
-  <a href="https://bd.linkedin.com/in/oii-nasif">
-    <img src="https://img.shields.io/badge/LinkedIn-oii--nasif-2563EB?style=flat-square&logo=linkedin&logoColor=2563EB&labelColor=F1F5F9" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nasif.ishtiaque.islam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nasif.ishtiaque.islam%40gmail.com-0369A1?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=F1F5F9" alt="Email" />
-  </a>
-  <a href="https://icpc.global/ICPCID/ENEK9F08IH5R">
-    <img src="https://img.shields.io/badge/ICPC_ID-ENEK9F08IH5R-0EA5E9?style=flat-square&logo=codeforces&logoColor=0284C7&labelColor=F1F5F9" alt="ICPC Profile" />
-  </a>
+  <a href="https://www.nasif.tech"><img src="https://img.shields.io/badge/Portfolio-nasif.tech-0284C7?style=flat-square&logo=googlechrome&logoColor=0284C7&labelColor=F1F5F9" alt="Portfolio" /></a>&nbsp;
+  <a href="https://bd.linkedin.com/in/oii-nasif"><img src="https://img.shields.io/badge/LinkedIn-oii--nasif-2563EB?style=flat-square&logo=linkedin&logoColor=2563EB&labelColor=F1F5F9" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:nasif.ishtiaque.islam@gmail.com"><img src="https://img.shields.io/badge/Email-nasif.ishtiaque.islam%40gmail.com-0369A1?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=F1F5F9" alt="Email" /></a>&nbsp;
+  <a href="https://icpc.global/ICPCID/ENEK9F08IH5R"><img src="https://img.shields.io/badge/ICPC_ID-ENEK9F08IH5R-0EA5E9?style=flat-square&logo=codeforces&logoColor=0284C7&labelColor=F1F5F9" alt="ICPC Profile" /></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=oii-nasif&label=Views&color=0284C7&style=flat-square" alt="Profile Views" />
 </p>
 
@@ -32,7 +24,7 @@
 ---
 
 ### 🏛️ Enterprise Engineering Spotlight — **MJH Risk Monitor (ClarusRisk Dashboard)**
-*Enterprise risk monitoring, quantitative analytics, and regulatory reporting platform for institutional asset managers at **[Brain Station 23](https://brainstation-23.com)**. I care about clean architecture, predictable performance, and systems that survive real-world production load.*
+*Enterprise risk monitoring, quantitative analytics, and portfolio management platform built for institutional asset managers (engineered as a client project at **[Brain Station 23](https://brainstation-23.com)**). I care about architecture, performance, and code that survives real-world abuse.*
 
 <p align="center">
   <img src="./assets/mjh-architecture.svg" width="100%" alt="MJH Risk Monitor Architecture" />

@@ -31,7 +31,7 @@
 </p>
 
 <details>
-<summary><b>🔍 Expand Full Engineering Scope &amp; Production Details (.NET 8 · SignalR · Hangfire · Redis · SQL Server)</b></summary>
+<summary><b>🔍 Expand Full Engineering Scope &amp; Production Details (.NET 10 · SignalR · Hangfire · Redis · SQL Server)</b></summary>
 <br/>
 
 - **Quantitative Risk Analytics:** Engineered VaR modeling, liquidity stress testing, and real-time portfolio monitoring across **243 domain entities**.
@@ -130,7 +130,7 @@
       <h4>⚙️ Primary Stack (.NET &amp; Backend)</h4>
       <p><img height="34" src="https://skillicons.dev/icons?i=dotnet,cs&theme=light" alt=".NET & C#" /></p>
       <ul>
-        <li><b>Core &amp; Web:</b> .NET 8, C#, ASP.NET Core (Web API, MVC)</li>
+        <li><b>Core &amp; Web:</b> .NET 10, C#, ASP.NET Core (Web API, MVC)</li>
         <li><b>Architecture:</b> Clean Architecture, SOLID, Dependency Injection, MediatR</li>
         <li><b>Data &amp; Caching:</b> Entity Framework Core, Dapper, In-Memory &amp; Redis Caching</li>
         <li><b>Real-Time &amp; Jobs:</b> SignalR WebSockets, Hangfire Background Processing</li>

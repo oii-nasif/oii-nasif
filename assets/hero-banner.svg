@@ -59,7 +59,7 @@
   <line x1="116" y1="63" x2="116" y2="85" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round" />
   <text x="130" y="82" class="font-sans subtitle">Senior Software Engineer</text>
 
-  <text x="32" y="110" class="font-sans role">Brain Station 23  ·  .NET 8  ·  C#  ·  ASP.NET Core  ·  Azure  ·  Distributed Systems</text>
+  <text x="32" y="110" class="font-sans role">Brain Station 23  ·  .NET 10  ·  C#  ·  ASP.NET Core  ·  Azure  ·  Distributed Systems</text>
 
   <text x="32" y="136" class="font-sans bio">4+ years shipping enterprise .NET systems — multi-tenant risk analytics,</text>
   <text x="32" y="155" class="font-sans bio">regulatory reporting, and real-time pipelines for regulated industries.</text>

@@ -36,7 +36,7 @@
     <rect x="0" y="0" width="202" height="107" rx="9" fill="url(#boxGrad)" stroke="#CBD5E1" stroke-width="1.2" />
     <rect x="0" y="0" width="202" height="4" rx="2" fill="#2563EB" />
     <text x="14" y="22" class="font-mono step-badge">02 · RESTFUL API LAYER</text>
-    <text x="14" y="42" class="font-sans box-title">ASP.NET Core (.NET 8)</text>
+    <text x="14" y="42" class="font-sans box-title">ASP.NET Core (.NET 10)</text>
     <text x="14" y="61" class="font-sans box-line">• 40+ Controllers / 150+ APIs</text>
     <text x="14" y="77" class="font-sans box-line">• 243 Domain Entities</text>
     <text x="14" y="93" class="font-sans box-line">• Clean Architecture &amp; SOLID</text>

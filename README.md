@@ -48,40 +48,77 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>⚡ <a href="https://github.com/oii-nasif/Caching-in-Clean-Architecture-DotNet">Caching in Clean Architecture (.NET)</a></b><br/>
-      <sub>Cache contract in the application layer, Redis and in-memory implementations in infrastructure, consumed transparently via a MediatR pipeline behavior with a marker-interface opt-in.</sub>
+      <b>🩺 <a href="https://github.com/oii-nasif/ChartWell">ChartWell — Offline-First Health Tracker (.NET MAUI 9)</a></b><br/>
+      <sub>Private, on-device Android health platform built with <b>.NET 9 &amp; C#</b>. Tracks medicines, vitals, doctor visits, and ~100 built-in lab tests across 13 clinical panels with derived metrics (LDL, eGFR), on-device OCR, Gemini AI chat, and encrypted Google Drive backup.</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=512BD4&labelColor=F1F5F9" alt=".NET 8" />
-      <img src="https://img.shields.io/badge/MediatR-0284C7?style=flat-square&labelColor=F1F5F9" alt="MediatR" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=DC382D&labelColor=F1F5F9" alt="Redis" />
-      <img src="https://img.shields.io/badge/Clean_Architecture-2563EB?style=flat-square&labelColor=F1F5F9" alt="Clean Architecture" />
+      <img src="https://img.shields.io/badge/.NET_MAUI_9-512BD4?style=flat-square&logo=dotnet&logoColor=512BD4&labelColor=F1F5F9" alt=".NET MAUI 9" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=239120&labelColor=F1F5F9" alt="C#" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=003B57&labelColor=F1F5F9" alt="SQLite" />
+      <img src="https://img.shields.io/badge/SkiaSharp_%26_OCR-0284C7?style=flat-square&labelColor=F1F5F9" alt="SkiaSharp & OCR" />
+      <img src="https://img.shields.io/badge/xUnit-2563EB?style=flat-square&labelColor=F1F5F9" alt="xUnit" />
       <details>
-        <summary><sub><b>📐 Architecture Highlights</b></sub></summary>
+        <summary><sub><b>📐 Engineering Highlights</b></sub></summary>
         <sub>
-          • Strict separation of concerns between Application abstractions and Infrastructure providers.<br/>
-          • Non-intrusive cross-cutting caching via MediatR pipeline behaviors.<br/>
-          • Focus: performance, maintainability, and production-ready .NET patterns.
+          • Hand-crafted MVVM architecture with typed SQLite repositories (<code>sqlite-net-pcl</code>) and custom SkiaSharp/LiveCharts2 controls.<br/>
+          • On-device prescription/lab report OCR (<code>Plugin.Maui.OCR</code> + <code>PdfPig</code>) with optional BYOK Gemini AI assistant.<br/>
+          • Biometric PIN lock and zero-server privacy model with optional Google Drive <code>appDataFolder</code> ZIP sync.
         </sub>
       </details>
     </td>
     <td width="50%" valign="top">
-      <b>🧬 <a href="https://github.com/oii-nasif/Predicting-Anti-Cancer-Peptides">Predicting Anti-Cancer Peptides</a></b><br/>
-      <sub>Applied machine learning research project combining bioinformatics feature engineering and supervised predictive modeling on biological peptide datasets.</sub>
+      <b>⚽ <a href="https://github.com/oii-nasif/WednesdayUnited">Wednesday United — Club &amp; Match Ledger Platform</a> · <a href="https://wednesdayunited.me">Live ↗</a></b><br/>
+      <sub>Production full-stack web app (<b>15 ★ · 190+ commits</b>) running a real weekly football club: match sign-ups, team sheets, payment verification, per-head cost settlement, player balances, and fundraising.</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=3776AB&labelColor=F1F5F9" alt="Python" />
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=F7931E&labelColor=F1F5F9" alt="scikit-learn" />
-      <img src="https://img.shields.io/badge/Bioinformatics-0284C7?style=flat-square&labelColor=F1F5F9" alt="Bioinformatics" />
+      <img src="https://img.shields.io/badge/React_19-0284C7?style=flat-square&logo=react&logoColor=0284C7&labelColor=F1F5F9" alt="React 19" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=F1F5F9" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/TanStack-2563EB?style=flat-square&labelColor=F1F5F9" alt="TanStack" />
+      <img src="https://img.shields.io/badge/PostgreSQL_(Supabase)-3ECF8E?style=flat-square&logo=supabase&logoColor=059669&labelColor=F1F5F9" alt="Supabase Postgres" />
       <details>
-        <summary><sub><b>🔬 Methodology Highlights</b></sub></summary>
+        <summary><sub><b>📐 Engineering Highlights</b></sub></summary>
         <sub>
-          • Sequence preprocessing and feature extraction across biological peptide datasets.<br/>
-          • Supervised classification pipeline built and evaluated with scikit-learn.<br/>
-          • Focus: Python, scikit-learn, data preprocessing, and model evaluation.
+          • Financial ledger managing advance deposits, bank/QR screenshot verification, cash settlement, and shared club funds.<br/>
+          • Built with TanStack Start/Router/Query, Supabase PostgreSQL with Row-Level Security (RLS), and Vitest.<br/>
+          • Deployed on Cloudflare edge runtime serving active weekly players and moderators.
+        </sub>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🛡️ <a href="https://github.com/oii-nasif/SentinelOps-AI">SentinelOps AI — Multi-Agent SRE Incident Commander</a> · <a href="https://sentinelops-ai-849282414521.asia-southeast1.run.app">Live ↗</a></b><br/>
+      <sub>Autonomous Site Reliability Engineering command center that orchestrates <b>7 specialized AI agents</b> to parse outage logs, map blast radiuses, retrieve runbooks, gate remediations, and compile post-mortems.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Multi--Agent_AI-0284C7?style=flat-square&labelColor=F1F5F9" alt="Multi-Agent AI" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=F1F5F9" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Gemini_SDK-2563EB?style=flat-square&logo=google&logoColor=2563EB&labelColor=F1F5F9" alt="Gemini SDK" />
+      <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=4285F4&labelColor=F1F5F9" alt="Cloud Run" />
+      <details>
+        <summary><sub><b>📐 Engineering Highlights</b></sub></summary>
+        <sub>
+          • Sequential 7-agent pipeline (Intake, Investigation, Knowledge, Blast Radius, Remediation, Communications, Post-Mortem).<br/>
+          • Enforces strict structured JSON schemas and human-in-the-loop approval gates before executing remediation steps.
+        </sub>
+      </details>
+    </td>
+    <td width="50%" valign="top">
+      <b>🧩 <a href="https://github.com/oii-nasif/misconfigured-dp700">Misconfigured — Microsoft Fabric (DP-700) Fault Drill</a> · <a href="https://oii-nasif.github.io/misconfigured-dp700/">Live ↗</a></b><br/>
+      <sub>Interactive fault-finding simulator with <b>32 misconfigured Microsoft Fabric artefacts</b> (KQL pipelines, streaming writers, T-SQL, Git integration) built for the Fabric Certification Prep Challenge.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Microsoft_Fabric-0284C7?style=flat-square&logo=microsoft&logoColor=0284C7&labelColor=F1F5F9" alt="Microsoft Fabric" />
+      <img src="https://img.shields.io/badge/KQL_%26_T--SQL-2563EB?style=flat-square&labelColor=F1F5F9" alt="KQL & T-SQL" />
+      <img src="https://img.shields.io/badge/DP--700_Prep-0369A1?style=flat-square&labelColor=F1F5F9" alt="DP-700" />
+      <details>
+        <summary><sub><b>📐 Engineering Highlights</b></sub></summary>
+        <sub>
+          • Four modes weighted to official DP-700 exam domains: Mastery Drill, UTC Daily Fault, 1000-pt Mock Exam, and Field Guide.<br/>
+          • Explains both why the faulty line breaks in production and why every other line in the artefact holds.
         </sub>
       </details>
     </td>
   </tr>
 </table>
+
+<sub><b>More Engineering &amp; Open-Source Work:</b> ⚡ <a href="https://github.com/oii-nasif/Caching-in-Clean-Architecture-DotNet"><b>Caching in Clean Architecture (.NET 8)</b></a> <i>(MediatR pipeline caching &amp; Redis/In-Memory abstractions)</i> · 📸 <a href="https://github.com/oii-nasif/Snapture"><b>Snapture</b></a> <i>(On-device full-page screenshot Chrome/Arc extension in TypeScript)</i> · 📊 <a href="https://github.com/oii-nasif/the-monsters-changed-powerbi"><b>The Monsters Changed (Power BI × Fabric DataViz)</b></a></sub>
 
 ---
 

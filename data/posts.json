@@ -1,0 +1,14 @@
+[
+ {
+  "title": "The speed data everyone skips: what the studies actually say about AI and developer productivity",
+  "link": "https://www.nasif.tech/blog/ai-productivity-speed-data/",
+  "date": "2026-09-12",
+  "description": "Share of AI-written code is the wrong stat. Here is every serious measurement of whether AI makes developers faster — including the randomized trial where it made them slower."
+ },
+ {
+  "title": "Caching in .NET, done properly: strategies, pitfalls, and Clean Architecture",
+  "link": "https://www.nasif.tech/blog/caching-clean-architecture/",
+  "date": "2026-09-04",
+  "description": "A practical guide to caching in .NET — cache-aside, in-memory vs Redis, HybridCache, invalidation, stampedes, and keeping it all out of your domain layer."
+ }
+]

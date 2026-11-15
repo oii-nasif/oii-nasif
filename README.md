@@ -1,228 +1,149 @@
-<div align="center">
-
-<!-- CUSTOM LIGHT-MODE EXECUTIVE HERO BANNER -->
-<a href="https://www.nasif.tech">
-  <img src="./assets/hero-banner.svg" width="100%" alt="Nasif — Senior Software Engineer (.NET, Azure, Distributed Systems)" />
-</a>
-
-<!-- SINGLE-LINE ANIMATED TYPING SUBTITLE (NO CLIPPING) -->
-<a href="https://www.nasif.tech">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1200&color=0369A1&center=true&vCenter=true&repeat=true&width=760&height=34&lines=Senior+Software+Engineer+at+Brain+Station+23+%C2%B7+4%2B+Years+in+Enterprise+.NET;Architecting+Multi-Tenant+Risk+Analytics+%26+Real-Time+Distributed+Pipelines;6%C3%97+Microsoft+%26+GitHub+Certified+%C2%B7+Azure+AI+%C2%B7+Microsoft+Fabric+%C2%B7+GitHub+Actions" alt="Animated Typing Subtitle" />
-</a>
-
-<!-- LIGHT-MODE SOCIAL & NAVIGATION BAR -->
 <p align="center">
-  <a href="https://www.nasif.tech"><img src="https://img.shields.io/badge/Portfolio-nasif.tech-0284C7?style=flat-square&logo=googlechrome&logoColor=0284C7&labelColor=F1F5F9" alt="Portfolio" /></a>&nbsp;
-  <a href="https://bd.linkedin.com/in/oii-nasif"><img src="https://img.shields.io/badge/LinkedIn-oii--nasif-2563EB?style=flat-square&logo=linkedin&logoColor=2563EB&labelColor=F1F5F9" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:nasif.ishtiaque.islam@gmail.com"><img src="https://img.shields.io/badge/Email-nasif.ishtiaque.islam%40gmail.com-0369A1?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=F1F5F9" alt="Email" /></a>&nbsp;
-  <a href="https://icpc.global/ICPCID/ENEK9F08IH5R"><img src="https://img.shields.io/badge/ICPC_ID-ENEK9F08IH5R-0EA5E9?style=flat-square&logo=codeforces&logoColor=0284C7&labelColor=F1F5F9" alt="ICPC Profile" /></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=oii-nasif&label=Views&color=0284C7&style=flat-square" alt="Profile Views" />
+  <a href="https://www.nasif.tech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="828" alt="Nasif Ishtiaque Islam. Senior Software Engineer at Brain Station 23. I build the backend systems nobody sees, and photograph the birds most people walk past. Open to backend and platform roles. Dhaka, Bangladesh, remote-friendly."></picture></a>
 </p>
 
-</div>
-
----
-
-### 🏛️ Enterprise Engineering Spotlight — **MJH Risk Monitor (ClarusRisk Dashboard)**
-*Enterprise risk monitoring, quantitative analytics, and portfolio management platform built for institutional asset managers (engineered as a client project at **[Brain Station 23](https://brainstation-23.com)**). I care about architecture, performance, and code that survives real-world abuse.*
+<p align="center">
+  <a href="https://www.nasif.tech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-site-dark.svg"><img src="assets/link-site-light.svg" height="39" alt="nasif.tech"></picture></a>
+  <a href="https://www.nasif.tech/resume/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-resume-dark.svg"><img src="assets/link-resume-light.svg" height="39" alt="Résumé"></picture></a>
+  <a href="https://www.nasif.tech/blog/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-blog-dark.svg"><img src="assets/link-blog-light.svg" height="39" alt="Blog"></picture></a>
+  <a href="https://bd.linkedin.com/in/oii-nasif"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img src="assets/link-linkedin-light.svg" height="39" alt="LinkedIn"></picture></a>
+  <a href="mailto:nasif.ishtiaque.islam@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg"><img src="assets/link-email-light.svg" height="39" alt="Email"></picture></a>
+</p>
 
 <p align="center">
-  <img src="./assets/mjh-architecture.svg" width="100%" alt="MJH Risk Monitor Architecture" />
+  Software engineer with 4+ years shipping enterprise .NET systems for regulated industries.<br>
+  Multi-tenant risk analytics, regulatory reporting and real-time pipelines.<br>
+  I care about architecture, performance, and code that survives real-world abuse.
+</p>
+
+<br>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-experience-dark.svg"><img src="assets/h-experience-light.svg" width="828" alt="01. Experience at Brain Station 23"></picture>
+  <a href="https://www.nasif.tech/experience/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/career-dark.svg"><img src="assets/career-light.svg" width="828" alt="Trainee to Senior in under five years. Trainee Software Engineer, Jan to Sep 2022. Associate Software Engineer IC1A, Oct 2022 to Jun 2023. Associate Software Engineer IC1B, Jul 2023 to Jun 2024. Software Engineer II, Jul 2024 to Sep 2026. Senior Software Engineer I, Oct 2026 to now. Projects: NISSAN Owner's Manual, LEADRS, SAFVIC Systems, MJH Risk Monitor."></picture></a>
 </p>
 
 <details>
-<summary><b>🔍 Expand Full Engineering Scope &amp; Production Details (.NET 10 · SignalR · Hangfire · Redis · SQL Server)</b></summary>
-<br/>
+<summary><b>The same five years, in words</b></summary>
+<br>
 
-- **Quantitative Risk Analytics:** Engineered VaR modeling, liquidity stress testing, and real-time portfolio monitoring across **243 domain entities**.
-- **Automated Regulatory Reporting:** Built compliance and reporting pipelines for **PRIIPS, AIFM, SFDR, UCITS, and MiFID II**.
-- **Real-Time & Background Processing:** High-volume bulk processing powered by **SignalR WebSockets** and **Hangfire** background jobs backed by **Redis**.
-- **Enterprise API & Security:** **RESTful API with 40+ controllers and 150+ endpoints**; multi-tenant architecture secured with **SAML 2.0 SSO**, **JWT authentication**, permission-based authorization (**RBAC**), and a distributed **Redis caching layer**.
+| | Role | What I did |
+|---|---|---|
+| **Oct 2026 – now** | Senior Software Engineer I | Leading backend development of ClarusRisk Dashboard (MJH Risk Monitor), an enterprise risk monitoring and portfolio management platform for institutional asset managers. |
+| **Jul 2024 – Sep 2026** | Software Engineer II | Built the same platform from its early build-out through its first production releases: the REST API, custom JWT authentication, multi-tenancy with SAML 2.0 SSO and RBAC, and the Redis caching layer. |
+| **Jul 2023 – Jun 2024** | Associate Software Engineer (IC1B) | Web applications for US law enforcement (SAFVIC, LEADRS) on ASP.NET and Entity Framework. Improved load times and resolved critical production issues. |
+| **Oct 2022 – Jun 2023** | Associate Software Engineer (IC1A) | Feature work and query optimization on enterprise web applications. |
+| **Jan 2022 – Sep 2022** | Trainee Software Engineer | The full lifecycle, from requirements to deployment, building modules in ASP.NET and Entity Framework. |
+
+Before Brain Station 23: Bengali language consultant for what3words (contract, Jun 2021).
 
 </details>
 
----
+<br>
 
-### ⚡ Featured Projects
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-flagship-dark.svg"><img src="assets/h-flagship-light.svg" width="828" alt="02. Flagship: the platform I lead backend on"></picture>
+  <a href="https://www.nasif.tech/projects/risk-monitor/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/flagship-dark.svg"><img src="assets/flagship-light.svg" width="828" alt="MJH Risk Monitor (ClarusRisk Dashboard): risk monitoring and portfolio management for institutional asset managers. 150+ REST endpoints, 40+ controllers, 243 domain entities, 5 regulatory frameworks. Four stages: access and tenancy, API layer, risk and compliance, real-time and delivery."></picture></a>
+</p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🩺 <a href="https://github.com/oii-nasif/ChartWell">ChartWell — Offline-First Health Tracker (.NET MAUI 9)</a></b><br/>
-      <sub>Private, on-device Android health platform built with <b>.NET 9 &amp; C#</b>. Tracks medicines, vitals, doctor visits, and ~100 built-in lab tests across 13 clinical panels with derived metrics (LDL, eGFR), on-device OCR, Gemini AI chat, and encrypted Google Drive backup.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/.NET_MAUI_9-512BD4?style=flat-square&logo=dotnet&logoColor=512BD4&labelColor=F1F5F9" alt=".NET MAUI 9" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=239120&labelColor=F1F5F9" alt="C#" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=003B57&labelColor=F1F5F9" alt="SQLite" />
-      <img src="https://img.shields.io/badge/SkiaSharp_%26_OCR-0284C7?style=flat-square&labelColor=F1F5F9" alt="SkiaSharp & OCR" />
-      <img src="https://img.shields.io/badge/xUnit-2563EB?style=flat-square&labelColor=F1F5F9" alt="xUnit" />
-      <details>
-        <summary><sub><b>📐 Engineering Highlights</b></sub></summary>
-        <sub>
-          • Hand-crafted MVVM architecture with typed SQLite repositories (<code>sqlite-net-pcl</code>) and custom SkiaSharp/LiveCharts2 controls.<br/>
-          • On-device prescription/lab report OCR (<code>Plugin.Maui.OCR</code> + <code>PdfPig</code>) with optional BYOK Gemini AI assistant.<br/>
-          • Biometric PIN lock and zero-server privacy model with optional Google Drive <code>appDataFolder</code> ZIP sync.
-        </sub>
-      </details>
-    </td>
-    <td width="50%" valign="top">
-      <b>⚽ <a href="https://github.com/oii-nasif/WednesdayUnited">Wednesday United — Club &amp; Match Ledger Platform</a> · <a href="https://wednesdayunited.me">Live ↗</a></b><br/>
-      <sub>Production full-stack web app (<b>15 ★ · 190+ commits</b>) running a real weekly football club: match sign-ups, team sheets, payment verification, per-head cost settlement, player balances, and fundraising.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React_19-0284C7?style=flat-square&logo=react&logoColor=0284C7&labelColor=F1F5F9" alt="React 19" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=F1F5F9" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/TanStack-2563EB?style=flat-square&labelColor=F1F5F9" alt="TanStack" />
-      <img src="https://img.shields.io/badge/PostgreSQL_(Supabase)-3ECF8E?style=flat-square&logo=supabase&logoColor=059669&labelColor=F1F5F9" alt="Supabase Postgres" />
-      <details>
-        <summary><sub><b>📐 Engineering Highlights</b></sub></summary>
-        <sub>
-          • Financial ledger managing advance deposits, bank/QR screenshot verification, cash settlement, and shared club funds.<br/>
-          • Built with TanStack Start/Router/Query, Supabase PostgreSQL with Row-Level Security (RLS), and Vitest.<br/>
-          • Deployed on Cloudflare edge runtime serving active weekly players and moderators.
-        </sub>
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🛡️ <a href="https://github.com/oii-nasif/SentinelOps-AI">SentinelOps AI — Multi-Agent SRE Incident Commander</a> · <a href="https://sentinelops-ai-849282414521.asia-southeast1.run.app">Live ↗</a></b><br/>
-      <sub>Autonomous Site Reliability Engineering command center that orchestrates <b>7 specialized AI agents</b> to parse outage logs, map blast radiuses, retrieve runbooks, gate remediations, and compile post-mortems.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Multi--Agent_AI-0284C7?style=flat-square&labelColor=F1F5F9" alt="Multi-Agent AI" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=F1F5F9" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Gemini_SDK-2563EB?style=flat-square&logo=google&logoColor=2563EB&labelColor=F1F5F9" alt="Gemini SDK" />
-      <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=4285F4&labelColor=F1F5F9" alt="Cloud Run" />
-      <details>
-        <summary><sub><b>📐 Engineering Highlights</b></sub></summary>
-        <sub>
-          • Sequential 7-agent pipeline (Intake, Investigation, Knowledge, Blast Radius, Remediation, Communications, Post-Mortem).<br/>
-          • Enforces strict structured JSON schemas and human-in-the-loop approval gates before executing remediation steps.
-        </sub>
-      </details>
-    </td>
-    <td width="50%" valign="top">
-      <b>🧩 <a href="https://github.com/oii-nasif/misconfigured-dp700">Misconfigured — Microsoft Fabric (DP-700) Fault Drill</a> · <a href="https://oii-nasif.github.io/misconfigured-dp700/">Live ↗</a></b><br/>
-      <sub>Interactive fault-finding simulator with <b>32 misconfigured Microsoft Fabric artefacts</b> (KQL pipelines, streaming writers, T-SQL, Git integration) built for the Fabric Certification Prep Challenge.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Microsoft_Fabric-0284C7?style=flat-square&logo=microsoft&logoColor=0284C7&labelColor=F1F5F9" alt="Microsoft Fabric" />
-      <img src="https://img.shields.io/badge/KQL_%26_T--SQL-2563EB?style=flat-square&labelColor=F1F5F9" alt="KQL & T-SQL" />
-      <img src="https://img.shields.io/badge/DP--700_Prep-0369A1?style=flat-square&labelColor=F1F5F9" alt="DP-700" />
-      <details>
-        <summary><sub><b>📐 Engineering Highlights</b></sub></summary>
-        <sub>
-          • Four modes weighted to official DP-700 exam domains: Mastery Drill, UTC Daily Fault, 1000-pt Mock Exam, and Field Guide.<br/>
-          • Explains both why the faulty line breaks in production and why every other line in the artefact holds.
-        </sub>
-      </details>
-    </td>
-  </tr>
-</table>
+<details>
+<summary><b>Engineering scope</b></summary>
+<br>
 
-<sub><b>More Engineering &amp; Open-Source Work:</b> ⚡ <a href="https://github.com/oii-nasif/Caching-in-Clean-Architecture-DotNet"><b>Caching in Clean Architecture (.NET 8)</b></a> <i>(MediatR pipeline caching &amp; Redis/In-Memory abstractions)</i> · 📸 <a href="https://github.com/oii-nasif/Snapture"><b>Snapture</b></a> <i>(On-device full-page screenshot Chrome/Arc extension in TypeScript)</i> · 📊 <a href="https://github.com/oii-nasif/the-monsters-changed-powerbi"><b>The Monsters Changed (Power BI × Fabric DataViz)</b></a></sub>
+A client platform built at [Brain Station 23](https://brainstation-23.com). The code is private; this is what I can say about it.
 
----
+- **Risk analytics.** VaR modeling, liquidity stress testing and real-time portfolio monitoring across 243 domain entities.
+- **Regulatory reporting.** Automated reports for PRIIPS, AIFM, SFDR, UCITS and MiFID II.
+- **Real-time and background work.** Bulk processing over SignalR WebSockets, with Hangfire jobs backed by Redis.
+- **API and security.** A REST API of 40+ controllers and 150+ endpoints, with custom JWT authentication and permission-based authorization. Multi-tenant, with SAML 2.0 SSO and RBAC, behind a Redis caching layer.
+- **Delivery.** Secure SFTP file distribution and an Aspose-based pipeline that generates and merges PDFs.
 
-### 🛠️ Technology Stack & Engineering Practices
+Stack: .NET 10, ASP.NET Core, SignalR, Hangfire, Redis, SQL Server. There is a longer write-up at [nasif.tech/projects/risk-monitor](https://www.nasif.tech/projects/risk-monitor/).
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚙️ Primary Stack (.NET &amp; Backend)</h4>
-      <p><img height="34" src="https://skillicons.dev/icons?i=dotnet,cs&theme=light" alt=".NET & C#" /></p>
-      <ul>
-        <li><b>Core &amp; Web:</b> .NET 10, C#, ASP.NET Core (Web API, MVC)</li>
-        <li><b>Architecture:</b> Clean Architecture, SOLID, Dependency Injection, MediatR</li>
-        <li><b>Data &amp; Caching:</b> Entity Framework Core, Dapper, In-Memory &amp; Redis Caching</li>
-        <li><b>Real-Time &amp; Jobs:</b> SignalR WebSockets, Hangfire Background Processing</li>
-        <li><b>Identity &amp; Auth:</b> JWT, ASP.NET Identity, SAML 2.0 SSO, RBAC</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>☁️ Cloud, DevOps &amp; Quality (Azure)</h4>
-      <p><img height="34" src="https://skillicons.dev/icons?i=azure,githubactions,git,bash&theme=light" alt="Azure & DevOps" /></p>
-      <ul>
-        <li><b>Microsoft Azure:</b> App Services, Azure Functions, Storage, Azure AI Services</li>
-        <li><b>CI/CD &amp; Automation:</b> GitHub Actions (Certified), Azure DevOps, Git, Bash</li>
-        <li><b>Observability:</b> Serilog, Azure Application Insights</li>
-        <li><b>Security &amp; Testing:</b> Secure Config &amp; Secrets Management, xUnit, NUnit, Moq</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🗄️ Databases &amp; Data Engineering</h4>
-      <p><img height="34" src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=light" alt="Databases" /></p>
-      <ul>
-        <li><b>SQL Server:</b> Query optimization, indexing, transactions, stored procedures, performance tuning</li>
-        <li><b>Relational &amp; NoSQL:</b> PostgreSQL, MySQL, Redis</li>
-        <li><b>Data Platform:</b> Microsoft Fabric (Certified Data Engineer Associate)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌐 Frontend, Applied ML &amp; Exploring</h4>
-      <p><img height="34" src="https://skillicons.dev/icons?i=angular,ts,js,py&theme=light" alt="Frontend & Python" /></p>
-      <ul>
-        <li><b>Frontend (Working Knowledge):</b> Angular (API integration, forms, state handling), TypeScript, JavaScript (ES6+)</li>
-        <li><b>ML &amp; Algorithms:</b> Python (ML &amp; research projects), Algorithmic problem-solving (ICPC)</li>
-        <li><b>🔭 Currently Exploring:</b> AI Agents &amp; Azure AI, Microsoft Fabric Lakehouses, Distributed Event Pipelines, Modern CI/CD Workflows</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+</details>
 
----
+<br>
 
-### 🏅 Certifications, Competitive Programming & Community
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-projects-dark.svg"><img src="assets/h-projects-light.svg" width="828" alt="03. Projects built after hours"></picture>
+  <a href="https://github.com/oii-nasif/ChartWell"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-chartwell-dark.svg"><img src="assets/project-chartwell-light.svg" width="412" alt="ChartWell: a private, offline-first health record for Android, built with .NET MAUI 9."></picture></a>
+  <a href="https://github.com/oii-nasif/WednesdayUnited"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-wednesday-united-dark.svg"><img src="assets/project-wednesday-united-light.svg" width="412" alt="Wednesday United: a full-stack app that runs a real weekly football club. React 19, TanStack, Supabase."></picture></a>
+  <a href="https://github.com/oii-nasif/SentinelOps-AI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-sentinelops-dark.svg"><img src="assets/project-sentinelops-light.svg" width="412" alt="SentinelOps AI: an incident commander built from seven agents, with a human approval gate."></picture></a>
+  <a href="https://github.com/oii-nasif/misconfigured-dp700"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-misconfigured-dark.svg"><img src="assets/project-misconfigured-light.svg" width="412" alt="Misconfigured: find the faulty line in 32 broken Microsoft Fabric artefacts. A DP-700 drill."></picture></a>
+</p>
 
-<table>
-  <tr>
-    <td width="56%" valign="top">
-      <h4>📜 Microsoft, GitHub &amp; AI Certifications</h4>
-      <ul>
-        <li><a href="https://learn.microsoft.com/en-us/users/oii-nasif/credentials/940600B6FFE01880"><b>GH-200</b> – GitHub Certified: GitHub Actions</a> · <sub>Sep 2026</sub></li>
-        <li><a href="https://learn.microsoft.com/en-us/users/oii-nasif/credentials/81a97e0d63c1d08c"><b>DP-700</b> – Microsoft Certified: Fabric Data Engineer Associate</a> · <sub>May 2026</sub></li>
-        <li><a href="https://learn.microsoft.com/en-us/users/oii-nasif/credentials/d748907356a2edaa"><b>AI-102</b> – Microsoft Certified: Azure AI Engineer Associate</a> · <sub>Jun 2024</sub></li>
-        <li><a href="https://learn.microsoft.com/en-us/users/oii-nasif/credentials/2455e35496ab3880"><b>AI-900</b> – Microsoft Certified: Azure AI Fundamentals</a> · <sub>Dec 2023</sub></li>
-        <li><a href="https://learn.microsoft.com/en-us/users/oii-nasif/credentials/26a71372456bd6b4"><b>AZ-900</b> – Microsoft Certified: Azure Fundamentals</a> · <sub>May 2023</sub></li>
-        <li><a href="https://www.credly.com/badges/ecf6563e-204f-4abc-b61d-5294b5051287/"><b>DP-900</b> – Microsoft Certified: Azure Data Fundamentals</a> · <sub>Oct 2022</sub></li>
-        <li><a href="https://www.kaggle.com/certification/badges/nasifishtiaqueislam/108"><b>Kaggle × Google</b> – 5-Day AI Agents Intensive</a> · <sub>Jul 2026</sub></li>
-      </ul>
-    </td>
-    <td width="44%" valign="top">
-      <h4>🏆 Competitive Programming &amp; Leadership</h4>
-      <ul>
-        <li><b>Honorable Mention</b>, ICPC Asia Dhaka Regional Online Preliminary (2018, 2020) — <a href="https://icpc.global/ICPCID/ENEK9F08IH5R">ICPC Profile ↗</a></li>
-        <li><b>Champion</b>, ICT Olympiad, UIU CSE FEST 2017</li>
-        <li><b>Mentor (.NET)</b>, Geeky Solutions</li>
-        <li><b>President</b>, UIU Science Forum (2019 – 2021)</li>
-      </ul>
-      <sub><i>Focused on cloud platforms, data engineering, CI/CD, and applied AI on Azure.</i></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <b>Try them:</b>
+  <a href="https://wednesdayunited.me">wednesdayunited.me</a> ·
+  <a href="https://sentinelops-ai-849282414521.asia-southeast1.run.app">SentinelOps AI</a> ·
+  <a href="https://oii-nasif.github.io/misconfigured-dp700/">Misconfigured</a><br>
+  <b>Also here:</b>
+  <a href="https://github.com/oii-nasif/Caching-in-Clean-Architecture-DotNet">Caching in Clean Architecture</a> ·
+  <a href="https://github.com/oii-nasif/Snapture">Snapture</a> ·
+  <a href="https://github.com/oii-nasif/the-monsters-changed-powerbi">The Monsters Changed</a>
+</p>
 
----
+<br>
 
-### 📊 GitHub Activity & Statistics
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.svg"><img src="assets/h-stack-light.svg" width="828" alt="04. Stack: what I reach for"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-backend-dark.svg"><img src="assets/stack-backend-light.svg" width="412" alt="Backend: C#, .NET 10, ASP.NET Core, Web API, MVC, Clean Architecture, EF Core, Dapper, MediatR, SignalR, Hangfire."></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-data-dark.svg"><img src="assets/stack-data-light.svg" width="412" alt="Data: SQL Server, query optimization, indexing, transactions, PostgreSQL, MySQL, Redis, Microsoft Fabric."></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-cloud-dark.svg"><img src="assets/stack-cloud-light.svg" width="412" alt="Cloud and DevOps: Azure App Services, Azure Functions, Azure Storage, Azure AI Services, GitHub Actions, Azure DevOps, Application Insights, Serilog."></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-edges-dark.svg"><img src="assets/stack-edges-light.svg" width="412" alt="Security, tests and UI: JWT, ASP.NET Identity, SAML 2.0 SSO, RBAC, xUnit, NUnit, Moq, Angular, TypeScript, JavaScript, Python."></picture>
+</p>
 
-<div align="center">
-  <p>
-    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oii-nasif&theme=github" alt="GitHub Stats" />
-    <img height="165" src="https://streak-stats.demolab.com?user=oii-nasif&background=FFFFFF&border=E4E2E2&stroke=E4E2E2&ring=0366D6&fire=0366D6&currStreakNum=24292F&sideNums=24292F&currStreakLabel=0366D6&sideLabels=57606A&dates=57606A" alt="GitHub Streak" />
-  </p>
-  <p>
-    <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oii-nasif&theme=github" alt="GitHub Contribution Graph & Overview" />
-  </p>
-</div>
+<br>
 
----
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-credentials-dark.svg"><img src="assets/h-credentials-light.svg" width="828" alt="05. Credentials: exams and contests"></picture>
+  <a href="https://learn.microsoft.com/en-us/users/oii-nasif/credentials/940600B6FFE01880"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cred-gh-200-dark.svg"><img src="assets/cred-gh-200-light.svg" width="204" alt="GH-200, GitHub Certified: GitHub Actions. Sep 2026."></picture></a>
+  <a href="https://learn.microsoft.com/en-us/users/oii-nasif/credentials/81a97e0d63c1d08c"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cred-dp-700-dark.svg"><img src="assets/cred-dp-700-light.svg" width="204" alt="DP-700, Microsoft Certified: Fabric Data Engineer Associate. May 2026."></picture></a>
+  <a href="https://learn.microsoft.com/en-us/users/oii-nasif/credentials/d748907356a2edaa"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cred-ai-102-dark.svg"><img src="assets/cred-ai-102-light.svg" width="204" alt="AI-102, Microsoft Certified: Azure AI Engineer Associate. Jun 2024."></picture></a>
+  <a href="https://learn.microsoft.com/en-us/users/oii-nasif/credentials/2455e35496ab3880"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cred-ai-900-dark.svg"><img src="assets/cred-ai-900-light.svg" width="204" alt="AI-900, Microsoft Certified: Azure AI Fundamentals. Dec 2023."></picture></a>
+  <a href="https://learn.microsoft.com/en-us/users/oii-nasif/credentials/26a71372456bd6b4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cred-az-900-dark.svg"><img src="assets/cred-az-900-light.svg" width="204" alt="AZ-900, Microsoft Certified: Azure Fundamentals. May 2023."></picture></a>
+  <a href="https://www.credly.com/badges/ecf6563e-204f-4abc-b61d-5294b5051287/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cred-dp-900-dark.svg"><img src="assets/cred-dp-900-light.svg" width="204" alt="DP-900, Microsoft Certified: Azure Data Fundamentals. Oct 2022."></picture></a>
+  <a href="https://www.kaggle.com/certification/badges/nasifishtiaqueislam/108"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cred-kaggle-agents-dark.svg"><img src="assets/cred-kaggle-agents-light.svg" width="204" alt="Kaggle course: 5-Day AI Agents Intensive, with Google. Jul 2026."></picture></a>
+  <a href="https://icpc.global/ICPCID/ENEK9F08IH5R"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cred-icpc-dark.svg"><img src="assets/cred-icpc-light.svg" width="204" alt="ICPC: Honorable Mention, Asia Dhaka Regional Site Online Preliminary Contest, 2018 and 2020."></picture></a>
+</p>
 
-<div align="center">
-  <b>💬 Open to collaboration, technical discussions, and challenging backend &amp; platform engineering problems.</b><br/>
-  <sub>
-    <a href="https://www.nasif.tech">🌐 www.nasif.tech</a> ·
-    <a href="https://bd.linkedin.com/in/oii-nasif">💼 LinkedIn</a> ·
-    <a href="https://github.com/oii-nasif">🐙 GitHub</a> ·
-    <a href="mailto:nasif.ishtiaque.islam@gmail.com">✉️ nasif.ishtiaque.islam@gmail.com</a>
-  </sub>
-</div>
+<p align="center">
+  <b>BSc, Computer Science &amp; Engineering</b> · United International University, 2017 – 2021<br>
+  <sub>Merit scholarship, three times · Champion, ICT Olympiad (UIU CSE Fest 2017) · President, UIU Science Forum, 2019 – 2021 · Mentor (.NET), Geeky Solutions</sub>
+</p>
+
+<br>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-github-dark.svg"><img src="assets/h-github-light.svg" width="828" alt="06. GitHub, lately"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/gh-activity-dark.svg"><img src="assets/gh-activity-light.svg" width="828" alt="A year of contributions as a calendar heatmap. The numbers are refreshed daily and saved in data/github.json."></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/gh-streak-dark.svg"><img src="assets/gh-streak-light.svg" width="412" alt="Current and longest contribution streak, with the last 30 days as bars."></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/gh-totals-dark.svg"><img src="assets/gh-totals-light.svg" width="412" alt="Totals: contributions since 2017, public repositories, stars earned, followers."></picture>
+</p>
+
+<br>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-writing-dark.svg"><img src="assets/h-writing-light.svg" width="828" alt="07. Writing, from nasif.tech"></picture>
+</p>
+
+<!-- writing:start -->
+<p align="center">
+  <a href="https://www.nasif.tech/blog/ai-productivity-speed-data/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/post-1-dark.svg"><img src="assets/post-1-light.svg" width="412" alt="The speed data everyone skips: what the studies actually say about AI and developer productivity. 12 Sep 2026."></picture></a>
+  <a href="https://www.nasif.tech/blog/caching-clean-architecture/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/post-2-dark.svg"><img src="assets/post-2-light.svg" width="412" alt="Caching in .NET, done properly: strategies, pitfalls, and Clean Architecture. 4 Sep 2026."></picture></a>
+</p>
+<!-- writing:end -->
+
+<br>
+
+<p align="center">
+  <a href="mailto:nasif.ishtiaque.islam@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/closing-dark.svg"><img src="assets/closing-light.svg" width="828" alt="Building something that has to survive real-world abuse? Say hello."></picture></a>
+</p>
+
+<p align="center">
+  <a href="https://www.nasif.tech">nasif.tech</a> ·
+  <a href="https://bd.linkedin.com/in/oii-nasif">LinkedIn</a> ·
+  <a href="mailto:nasif.ishtiaque.islam@gmail.com">nasif.ishtiaque.islam@gmail.com</a><br>
+  <sub>Off the clock I <a href="https://www.nasif.tech/photography/">photograph birds</a> and <a href="https://www.nasif.tech/running/">run road races</a>.</sub><br>
+  <sub>Every graphic here is drawn by <a href="https://github.com/oii-nasif/oii-nasif/tree/master/scripts">a script in this repo</a> and refreshed daily by GitHub Actions. No third-party widgets.</sub>
+</p>

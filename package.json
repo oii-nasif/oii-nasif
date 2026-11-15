@@ -1,0 +1,20 @@
+{
+  "name": "oii-nasif-profile",
+  "private": true,
+  "type": "module",
+  "description": "Generator for the graphics in this profile README.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:static": "node scripts/build.mjs --offline"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@fontsource-variable/bricolage-grotesque": "5.3.0",
+    "@fontsource-variable/dm-sans": "5.3.0",
+    "@fontsource-variable/jetbrains-mono": "5.3.0",
+    "@fontsource/instrument-serif": "5.3.0",
+    "fontkit": "3.0.0"
+  }
+}

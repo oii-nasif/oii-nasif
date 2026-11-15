@@ -1,0 +1,56 @@
+name: Profile graphics
+
+# Redraws the SVGs in assets/ so the GitHub numbers and the blog posts stay
+# current. Runs once a day, when the generator changes, and on demand.
+
+on:
+  schedule:
+    - cron: "23 0 * * *" # 06:23 in Dhaka
+  push:
+    branches: [master]
+    paths:
+      - "scripts/**"
+      - "package.json"
+      - "package-lock.json"
+      - ".github/workflows/profile.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write # commits the redrawn files back to this repo
+
+concurrency:
+  group: profile-graphics
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Draw
+        run: npm run build
+        env:
+          # The default token is enough: everything drawn is public data.
+          GH_TOKEN: ${{ github.token }}
+
+      - name: Commit what changed
+        run: |
+          git add assets data README.md
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          # Committed as the Actions bot, so these never count as contributions.
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh profile graphics"
+          git push
